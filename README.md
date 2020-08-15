@@ -16,6 +16,6 @@
 - Também, é **preciso** ter um gerenciador de pacotes seja o **[YARN](https://classic.yarnpkg.com/en/docs/install/#windows-stable)**.
 - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
 
-![Proffy](https://github.com/GuilhermeErthal/Proffy-NLW2/tree/master/web/src/assets/images/gifproffy.gif)
+![Proffy](https://github.com/GuilhermeErthal/Proffy-NLW2/blob/master/web/src/assets/images/gifproffy.gif)
 
 ## Projeto aplicado durante a NWL2 da **[Rocketseat](https://github.com/Rocketseat)**
